@@ -4,7 +4,7 @@ These figures support our rebuttal of XXXX.
 
 Figure 1: Maximum likelihood and maximum parsimony trees of the 26 kb section of the genome (Hmel218003:758703-784954) showing individual branches and accession numbers. Maximum likelihood tree based on chromosome 3.
 
-Figure 2: Maximum likelihood analysis of a 26 kb section of the genome (Hmel218003:758703-784954) within the ~50 kb cis-regulatory region of the colour patterning gene optix. This is figure is identical to Figure 2 of our rebuttal in Antenna.
+Figure 2: Maximum likelihood analysis of a 26 kb section of the genome (Hmel218003:758703-784954) within the ~50 kb cis-regulatory region of the colour patterning gene optix. This figure is identical to Figure 2 of our rebuttal in Antenna.
 
 Whole genome sequences (fastq) were downloaded from Genbank, selecting individuals with the highest sequence coverage.
 Fastq files were aligned to the Hmel2.5 reference genomes (Heliconius_melpomene_melpomene_Hmel2.5.scaffolds.fa) using bwa mem (BWA 0.7.17). 

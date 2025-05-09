@@ -1,6 +1,6 @@
 # Brower_rebuttal_Antenna_2025
 Supplementary figures supporting the rebuttal in Antenna 2025.
-These figures support our rebuttal of Brower and Garzón-Orduña (2024) Antenna.
+These figures support our rebuttal of Brower and Garzón-Orduña (2024).
 
 [Figure S1](https://github.com/kanchond/Brower_rebuttal_Antenna_2025/blob/main/Figure_S1.pdf): Maximum likelihood and maximum parsimony trees of the 26 kb section of the genome (Hmel218003:758703-784954) showing individual branches and accession numbers. Maximum likelihood tree based on chromosome 3.
 
